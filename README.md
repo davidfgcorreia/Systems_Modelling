@@ -1,3 +1,25 @@
+# Systems Modelling — BIOGateBox
+
+Systems modelling coursework exploring an access-control organisation, its business processes, and the BioBox service.
+
+## Team and source
+
+Showcase fork maintained by David Correia from [Guilherme1Rocha/Systems_Modelling](https://github.com/Guilherme1Rocha/Systems_Modelling). The original history credits Guilherme Rocha, Miguel Rego, and David Correia.
+
+## Model files
+
+| File | Purpose | Viewer |
+| --- | --- | --- |
+| `archi.archimate` | Enterprise architecture model | Archi |
+| `bpmn_PEP/` | Request-execution process artefacts | See the files in the folder |
+| `projetoAMS.qea` | Systems modelling project | Enterprise Architect |
+
+## Diagram preview
+
+![BIOGateBox context model](docs/context-preview.svg)
+
+This simplified SVG preview uses the labels and stored positions from the Archi `Contexto` view. Relationship routing and notation are simplified; open the original Archi model for full modelling semantics. The original model files remain available.
+
 ## Introduction
 
 BIOGateBox (BGB) is a company specializing in the sale and implementation of the **BioBox** product, which is designed for physical access control to restricted areas. The company operates under contractual agreements with clients who require secure and automated access control solutions.
